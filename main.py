@@ -6,7 +6,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, CallbackQueryHandler, ContextTypes, filters
 
 # الحصول على توكن البوت من متغير البيئة في Railway
-BOT_TOKEN = "8216616214:AAFjBoNImz7MQyvRUREFgGhWt0rJYTdh10c"
+BOT_TOKEN = "8216616214:AAEefsTR0270GOybaSzDO40fkMnjXDWEryg"
 
 # لتتبع المستخدمين الذين أرسلوا زر "فحص رابط"
 user_waiting = {}
